@@ -1,7 +1,7 @@
 .pag1 {
     background: url("../image/1.jpg") no-repeat fixed;
     background-size: contain;
-    height: 650px;
+    height: 630px;
     padding-left: 10%;
     padding-right: 10%;
     position:relative;
@@ -47,4 +47,19 @@
 .abajo {
     position: absolute;
     bottom: 6em;
+}
+.pag2 {
+    background: #EC4141;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.title1 {
+    font-size: 2em;
+    font-weight: bolder;
+    padding-top: 5%;
 }
