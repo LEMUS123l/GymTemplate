@@ -1,9 +1,50 @@
 .pag1 {
-    background: url("../image/1.jpg");
+    background: url("../image/1.jpg") no-repeat fixed;
+    background-size: contain;
+    height: 650px;
     padding-left: 10%;
     padding-right: 10%;
+    position:relative;
 }
 
 .colorwhite {
     color: #fff;
+}
+
+.seleccion:hover {
+    background-color: #EC4141;
+    cursor: pointer;
+}
+
+.seleccion, .eleccion1 {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-weight:400;
+}
+
+.seleccion {
+    font-size: 12px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.eleccion {
+    color: #E62026;
+    font-size: 20px;
+}
+
+.menu {
+    background-color: rgba(0, 0, 0, 0.459);
+}
+
+.grosor {
+    font-size:4em;
+    font-weight: bolder;
+}
+
+.abajo {
+    position: absolute;
+    bottom: 6em;
 }
