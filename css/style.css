@@ -2,8 +2,6 @@
     background: url("../image/1.jpg") no-repeat fixed;
     background-size: contain;
     height: 630px;
-    padding-left: 10%;
-    padding-right: 10%;
     position:relative;
 }
 
@@ -37,6 +35,8 @@
 
 .menu {
     background-color: rgba(0, 0, 0, 0.459);
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .grosor {
@@ -47,6 +47,8 @@
 .abajo {
     position: absolute;
     bottom: 6em;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .pag2 {
     background: #EC4141;
@@ -61,5 +63,5 @@
 .title1 {
     font-size: 2em;
     font-weight: bolder;
-    padding-top: 5%;
+    padding-top: 5
 }
