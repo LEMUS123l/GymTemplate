@@ -52,8 +52,7 @@
 }
 .pag2 {
     background: #EC4141;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 7%;
 }
 
 .centrado {
@@ -64,4 +63,52 @@
     font-size: 2em;
     font-weight: bolder;
     padding-top: 5
+}
+
+.tels {
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #FFF;
+    padding: 1%;
+}
+
+.texto {
+    background-color: #FFF;
+    padding: 20px;
+    font-size: 12px;
+}
+
+.pag3 {
+    background-color:#1C1C1C  ;
+    padding: 5%;
+}
+
+.JJ {
+    color: #656565;
+}
+
+.yy {
+    padding-bottom: 5%;
+}
+
+.tt {
+    padding-left: 5%;
+}
+
+.pag4 {
+    background-color: #2c2b2b;
+}
+
+.aa {
+    padding-top: 5%;
+}
+
+.boton {
+    background-color: #EC4141;
+    width: 125px;
+    padding: 1%;
+    text-align: center;
+    box-shadow: 2px 2px 2px rgb(63, 3, 3);
+    cursor: pointer;
 }
