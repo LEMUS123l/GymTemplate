@@ -98,6 +98,8 @@
 
 .pag4 {
     background-color: #2c2b2b;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .aa {
@@ -111,4 +113,24 @@
     text-align: center;
     box-shadow: 2px 2px 2px rgb(63, 3, 3);
     cursor: pointer;
+}
+
+.ZZ {
+    color: #656565;
+    padding-top: 5%;
+}
+
+.pag5 {
+    background-color: #1C1C1C;
+    padding: 5%;
+    color: #FFF;
+}
+
+.HJ {
+    text-align: right;
+}
+
+.ZM {
+    border:1px solid #FFF;
+    font-size: 30px;
 }
